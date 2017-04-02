@@ -7,4 +7,5 @@ Roots, trunks, branches, leaves... trees are pretty cool!
 Here's a change, let's try to commit it now.
 This time maybe?
 
-Let's create a conflict... Now pull it back to local...
+Let's create a conflict...
+And fix it!
